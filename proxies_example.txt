@@ -1,0 +1,2 @@
+192.168.1.1:8080
+http https socks4 socks5 
